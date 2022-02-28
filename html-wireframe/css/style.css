@@ -1,0 +1,375 @@
+#warpper{
+	width: 960px;
+	margin: 0 auto;
+}
+header{
+	width: 100%;
+	height: 1780px;
+	float: left;
+	background-color: #94959a;
+	position: relative; 
+}
+#head{
+	width: 100%;
+	height: 530px;
+	background: #000;
+}
+.logo{
+	color: #fff;
+	font-family: tahoma;
+	font-size: 36px;
+	padding-top: 20px;
+	padding-left: 100px;
+	float: left;
+}
+.menu a{
+	color: #fff;
+	font-family: tahoma;
+	font-size: 16px;
+	float: left;
+	margin-right: 10px;
+	margin-top: 30px;
+	text-align: left;
+	padding-right: 5px;
+	padding-left: 40px;
+	
+}
+.menu a:hover{
+	color: #94959a;
+}
+.user a i{
+	color: #fff;
+	margin-top: 30px;
+	float: left;
+	margin-left: 170px;
+}
+.user a i:hover{
+	color: #94959a;
+}
+.user1 a i{
+	color: #fff;
+	margin-top: 30px;
+	margin-left:  10px;
+}
+.user1 a i:hover{
+	color: #94959a;
+}
+.pic i{
+	color: #fff;
+	font-size: 140px;
+	margin-top: 130px;
+}
+.title{
+	font-family: tahoma;
+	color: #fff;
+}
+.title p{
+	font-size: 36px;
+	float: right;
+	margin-right: 290px;
+	margin-top: -140px;
+}
+.title2 {
+	font-size: 16px;
+	font-style: ;
+	color: #fff;
+	font-family: tahoma;
+	text-align: center;
+	margin-top: -100px;
+	margin-left: 230px;
+}
+.move-top i{
+	color: #fff;
+	font-size: 24px;
+	float: right;
+	margin-top: -150px;
+	margin-right: 110px;
+}
+.move-top i:hover{
+	color: #94959a;
+}
+.dot{
+	color: #999999;
+	font-size: 70px;
+	float: right;
+	margin-top: -160px;
+	margin-right: 111px;
+}
+.dot1{
+	color: #fff;
+	font-size: 70px;
+	float: right;
+	margin-top: -140px;
+	margin-right: 111px;
+}
+.dot2{
+	color: #fff;
+	font-size: 70px;
+	float: right;
+	margin-right: 111px;
+	margin-top: -120px;
+}
+.move-down i{
+	color: #fff;
+	font-size: 24px;
+	float: right;
+	margin-right: 110px;
+	margin-top: -40px;
+}
+.move-down i:hover{
+	color: #94959a;
+}
+.button button{
+	width: 140px;
+	height: 30px;
+	font-family: tahoma;
+	font-size: 14px;
+	float: right;
+	margin-right: 350px;
+	margin-top: -10px;
+	border-radius: 10px;
+}
+.button button:hover{
+	color: #fff;
+	background: #000;
+}
+.Product {
+	font-family: tahoma;
+	font-size: 16px;
+	color: #fff;
+	margin-top: 270px;
+	text-align: center;
+}
+.line{
+	color: #fff;
+	text-align: center;
+	margin-top: -5px;
+}
+.title1 {
+	font-family: tahoma;
+	font-size: 12px;
+	color: #fff;
+	text-align: center;
+	margin-top: 10px;
+}
+#pic_clum{
+	width: 100%;
+	height: 400px;
+}
+.pic_left {
+	width: 200px;
+	height: 200px;
+	background: #cccccc;
+	margin-top: 50px;
+	margin-left: 170px;
+}
+.pic_left i{
+	font-size: 60px;
+	color: #fff;
+	margin-top: 70px;
+	margin-left: 70px;
+}
+.pic_center{
+	width: 200px;
+	height: 200px;
+	background: #cccccc;
+	margin-top: -200px;
+	margin-left: 380px;
+}
+.pic_center i{
+	font-size: 60px;
+	color: #fff;
+	margin-top: 70px;
+	margin-left: 70px;
+}
+.pic_right{
+	width: 200px;
+	height: 200px;
+	background: #666666;
+	margin-top: -200px;
+	margin-left: 590px;
+}
+.pic_right i{
+	font-size: 60px;
+	color: #333333;
+	margin-top: 70px;
+	margin-left: 70px;
+}
+.product{
+	font-family: tahoma;
+	font-size: 18px;
+	color: #fff;
+	margin-top: 90px;
+}
+.ID-num{
+	font-family: tahoma;
+	font-size: 12px;
+	color: #666666;
+	margin-top: 5px;
+	margin-left: 10px;
+}
+.price{
+	font-family: tahoma;
+	font-size: 12px;
+	color: #ffcc33;
+	margin-top: 20px;
+	float: left;
+}
+.ADD a{
+	font-family: tahoma;
+	font-size: 12px;
+	color: #000;
+	float: left;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+.ADD a:hover{
+	color: #fff;
+}
+.pic-big{
+	width: 300px;
+	height: 300px;
+	background: #cccccc;
+	margin-top: 150px;
+	margin-left: 170px;
+}
+.pic-big i{
+	font-size: 70px;
+	color: #fff;
+	margin-top: 120px;
+	margin-left: 120px;
+
+}
+.pic-top{
+	width: 310px;
+	height: 145px;
+	background: #cccccc;
+	margin-top: -300px;
+	margin-left: 480px;
+}
+.pic-top i{
+	font-size: 60px;
+	color: #fff;
+	margin-top: 50px;
+	margin-left: 120px;
+}
+.pic-donw{
+	width: 310px;
+	height: 145px;
+	background: #cccccc;
+	margin-left: 480px;
+	margin-top: 10px;
+}
+.pic-donw i{
+	font-size: 60px;
+	color: #fff;
+	margin-top: 50px;
+	margin-left: 120px;
+}
+.about{
+	font-family: tahoma;
+	font-size: 16px;
+	color: #fff;
+	text-align: center;
+	margin-top: 20px;
+}
+.line1{
+	color: #fff;
+	text-align: center;
+	margin-top: -5px;
+}
+.title3{
+	font-family: tahoma;
+	font-size: 12px;
+	color: #fff;
+	text-align: center;
+	margin-top: 20px;
+}
+.join{
+	font-family: tahoma;
+	font-size: 20px;
+	color: #fff;
+	text-align: center;
+	margin-top: 470px;
+}
+.email{
+	width: 200px;
+	height: 20px;
+	background: #fff;
+	margin-left: 360px;
+	margin-top: 20px;
+	border-radius: 5px;
+	font-size: 14px;
+	padding-top: 10px;
+	padding-left: 5px;
+	color: #cccccc;
+}
+.send{
+	width: 55px;
+	height: 20px;
+	background: #000;
+	color: #fff;
+	text-align: center;
+	margin-left: 540px;
+	margin-top: -30px;
+	border-radius: 5px;
+	font-size: 14px;
+	padding-top: 10px;
+}
+.title4{
+	font-family: tahoma;
+	font-size: 12px;
+	color: #fff;
+	text-align: center;
+	margin-top: 20px;
+}
+.logo-face{
+	color: #fff;
+	font-size: 16px;
+	text-align: center;
+	margin-top: 30px;
+	margin-right: 130px;
+
+}
+.logo-twi{
+	color: #fff;
+	font-size: 16px;
+	text-align: center;
+	margin-top: -16px;
+	margin-right: 70px;
+}
+.logo-google{
+	color: #fff;
+	font-size: 16px;
+	text-align: center;
+	margin-top: -18px;
+}
+.logo-in{
+	color: #fff;
+	font-size: 16px;
+	text-align: center;
+	margin-top: -17px;
+	margin-left: 65px;
+}
+.logo-pin{
+	color: #fff;
+	font-size: 16px;
+	text-align: center;
+	margin-top: -17px;
+	margin-left: 130px;
+}
+.design i{
+	color: #fff;
+	font-size: 12px;
+	text-align: center;
+	margin-top: 15px;
+	margin-left: 420px;
+}
+.design p{
+	font-family: tahoma;
+	font-size: 12px;
+	text-align: center;
+	color: #fff;
+	margin-top: -15px;
+	margin-left: 10px;
+}
